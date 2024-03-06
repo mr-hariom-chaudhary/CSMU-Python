@@ -5,6 +5,6 @@ rev = ""
 for i in string:
     rev = i + rev
 if(string==rev):
-    print("It Is Palindrome")
+    print(string," It Is Palindrome")
 else:
-    print("It Is Not A Palindrome")
+    print(string," It Is Not A Palindrome")
