@@ -1,6 +1,6 @@
 # write a python program to reverse a string
 
-string = "Hariom"
+string = input("Enter The String You Want To Reverse : ")
 reversed_string = ""
 for char in string:
     reversed_string = char + reversed_string
